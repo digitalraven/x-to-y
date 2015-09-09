@@ -1,0 +1,20 @@
+x-to-y
+======
+
+A combination of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), Eric Bailey's [milennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people), and Alex Hong's [sjw-to-skeleton](https://github.com/alexhong/sjw-to-skeleton) Chrome extensions, re-packaged for Safari.
+
+
+Installing
+==========
+
+The easy way:
+
+1. Download [XtoY.safariext]() and double-click on the file
+
+The hard way:
+
+1. Activate the Developer menu in Safari's preferences.
+2. Download the `.plst` and `.js` files to a directory ending `.safariextension`.
+3. In Safari, go to Develop -> Show Extension Builder
+4. Choose Add Extension... from the plus button and select the directory the files are in.
+5. Hope you got a Safari extension developer certificate before the thieving bastards at Apple started charging $99 to build simple free browser enhancements.
