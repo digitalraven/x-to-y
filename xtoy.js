@@ -27,6 +27,7 @@ function handleText(textNode) {
 	
 	v = snakePeople(v);
 	v = toButt(v);
+	v = skellington(v);
 	
     v = v.replace(/\bThe Cloud\b/g, "My Butt");
 	v = v.replace(/\bThe cloud\b/g, "My butt");
