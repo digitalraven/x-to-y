@@ -1,7 +1,7 @@
 x-to-y
 ======
 
-A combination of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), Eric Bailey's [milennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people), and Alex Hong's [sjw-to-skeleton](https://github.com/alexhong/sjw-to-skeleton) Chrome extensions, re-packaged for Safari.
+A combination of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt), Eric Bailey's [millennials-to-snake-people](https://github.com/ericwbailey/millennials-to-snake-people), and Alex Hong's [sjw-to-skeleton](https://github.com/alexhong/sjw-to-skeleton) Chrome extensions, re-packaged for Safari.
 
 
 Installing
