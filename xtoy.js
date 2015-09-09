@@ -41,6 +41,8 @@ function skellington(v) {
 	v = v.replace(/\bsocjus\b/ig, "skeletonism");
 	v = v.replace(/\b(a)n (skeletons?)\b/ig, "$1 $2");
 	v = v.replace(/\b(s)ocial justice (warriors?)/ig, "$1keleton $2");
+	
+	return v;
 }
 
 function toButt(v) {
